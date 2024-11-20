@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960311308338",
+    "project_id": "samuel-a61f4",
+    "storage_bucket": "samuel-a61f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960311308338:android:09ff3a69803a5559ef8c2b",
+        "android_client_info": {
+          "package_name": "com.samuel.alimento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuDm4B_zNP2yFgtadbigXUlFsrF_RsMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
